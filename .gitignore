@@ -1,0 +1,13 @@
+.*
+bin
+bin-*
+doc*
+report*
+html-template
+build.properties
+FlexUnitApplication.mxml
+Thumbs.db
+*.iml
+*.ipr
+*.iws
+*.swf
